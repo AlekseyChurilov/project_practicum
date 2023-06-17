@@ -1,3 +1,3 @@
 # project_practicum
 
-пректный практикум от skillfactory Чурилова Алексея
+проектный практикум от skillfactory Чурилова Алексея
